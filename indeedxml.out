@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html;charset=UTF-8" http-equiv="content-type">
+<!-- pll -->
+<link href="/q-Developer-l-California-jobs.html" rel="canonical">
+<link href="/s/5788546/jobsearch_all.css" rel="stylesheet" type="text/css">
+<link href="http://rss.indeed.com/rss?q=developer=California" rel="alternate" title="Developer Jobs, Employment in California" type="application/rss+xml">
+<link href="/m/jobs?q=developer=California" media="handheld" rel="alternate">
+<script type="text/javascript">
+    
+    function call_when_jsall_loaded(cb) {
+        if (window['closureReady']) {
+            cb();
+        } else {
+            
+            window.addEventListener('indeed_jsrch_jsall_loaded', cb);
+        }
+    }
+</script>
+<script src="/s/e64cb0b/jobsearch-all-compiled.js" type="text/javascript"/>
+<script type="text/javascript">
+var pingUrlsForGA = [];
+
+ 
+var searchUID = '19cfg6o2e0nq226i';
+var tk = '19cfg6o2e0nq226i';
+
+var loggedIn = false;
+var myindeed = true;
+var userEmail = '';
+var tellFriendEmail = '';
+var globalLoginURL = 'http:\/\/www.indeed.com\/account\/login?dest=%2Fq-developer-l-California-jobs.html';
+var globalRegisterURL = 'http:\/\/www.indeed.com\/account\/register?dest=%2Fq-developer-l-California-jobs.html';
+var searchKey = '766124e6cf043a07';
+var searchState = 'q=developerl=California';
+var searchQS = 'q=developer=California';
+var eventType = 'jobsearch';
+function clk(id) { var a = document.getElementById(id); var hr = a.href; var si = a.href.indexOf('='); if (si &gt; 0) return; var jsh = hr + '=19cfg6o2e0nq226i=9934'; a.href = jsh; }
+function sjomd(id) { var a = document.getElementById(id); var hr = a.href; var ocs = hr.indexOf('=1'); if (ocs </script></link></link></link></link></meta></head></html>
